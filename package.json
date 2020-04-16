@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/yorkbeary/york-node-bench#readme",
   "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/express": "^4.17.6",
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1"
   }
 }

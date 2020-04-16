@@ -1,11 +1,10 @@
 ## york-node-bench
 
-# after installing node, install typescript:
+# after installing node, run:
 npm i -g typescript
 
-
-
-# After cloning this repo, use the following commands to get started:
-
+# to run this app:
 yarn
 npm start
+
+# then, open your browser and goto http://localhost:3000/random-text
